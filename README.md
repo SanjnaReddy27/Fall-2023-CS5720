@@ -13,3 +13,6 @@ Video link (Explanation of the technical part and method used): https://drive.go
 
 Neural Networks and Deep Learning - ICP-5
 Video link (Explanation of the technical part and method used): https://drive.google.com/file/d/1mfe63xZm_gA-QaxsHubr-zG7TFj7blK2/view?usp=drive_link
+
+Neural Networks and Deep Learning - ICP-6
+Video link (Explanation of the technical part and method used): https://drive.google.com/file/d/1R5iTUAZa3oH4J-KSi6mQuu4HlKBHBp2V/view?usp=drive_link
